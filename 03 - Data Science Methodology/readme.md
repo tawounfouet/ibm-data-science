@@ -15,3 +15,6 @@
 - Python Programming
 - Numpy
 - Pandas
+
+
+![Course 2 - Completion Certficate](course-3-certificate.png)
