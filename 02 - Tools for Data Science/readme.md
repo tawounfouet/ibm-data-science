@@ -12,3 +12,8 @@ In the first lesson in this module, you gain insight into the impact of big data
 - Explain the difference between deep learning and machine learning.
 - Describe regression and how it might be used to predict market behavior and trend analysis.
 - Describe generative AI
+
+
+## Certificate of Completion
+
+![Data Science Tools - Certificate](course-2-certificate.png)
